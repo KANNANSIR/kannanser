@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://i.imgur.com/RO3XbB1.jpeg" alt="paul" width="300" />
 
-# ITS.ME BRITTO
+# ITS.ME KRIZSER
 
 >
 >
@@ -14,13 +14,13 @@
     
 ## `Deploy`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MuhammedNihaljr/belco_/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KANNANSIR/kannanser/)
     
 ## HOW TO INSTALL ON TERMUX
 ```bash
 > pkg install nodejs && pkg install git
-> git clone https://github.com/MuhammedNihaljr/belco_
-> cd belco_
+> git clone https://github.com/KANNANSIR/kannanser
+> cd kannanser
 > npm i -g npm@6.14.14
 > npm install @adiwajshing/bailyes
 > npm install terminal-kit
@@ -29,8 +29,8 @@
 ```
 ## HOW TO INSTALL ON PC
 ```bash
-> git clone https://github.com/MuhammedNihaljr/belco_
-> cd belco_
+> git clone https://github.com/KANNANSIR/kannanser
+> cd kannanser
 > npm install terminal-kit
 > npm i
 > npm start/node index.js
